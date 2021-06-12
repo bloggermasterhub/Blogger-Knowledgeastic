@@ -3002,8 +3002,7 @@ h1{
     margin:8px 0;
     font-size:13px
 }
- .subscribe-widget{
-    display:none;     
+ .subscribe-widget{    
     position:relative;
     overflow:hidden;
     border:1px solid #e6e6e6;
@@ -6434,8 +6433,7 @@ div#socialicons-top{
         width:100%;
         margin:0
     }
-     .subscribe-widget{
-        display:none;         
+     .subscribe-widget{         
         padding:25px
     }
      input.email-field{
