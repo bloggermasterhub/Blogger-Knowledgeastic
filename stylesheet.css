@@ -693,7 +693,7 @@ h1{
     color:#fff;
     background:#4d90fe
 }
- nav>ul>li.submenu>ul {
+.submenu {
  display: none;    
 }     
  nav>ul>li.submenu>a,nav>ul>li.nav-rec>a,nav>ul>li.megamenu>a,nav>ul>li.nav-big>a,nav>ul>li.nav-simple>a{
