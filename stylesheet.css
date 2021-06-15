@@ -7272,4 +7272,8 @@ div#socialicons-top{
                 padding: 5px 0px !important;
             }
         }
-        
+.myResponsiveAd img {
+  display:block;
+  height:auto;
+  max-width:100%;
+}    
