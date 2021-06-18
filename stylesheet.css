@@ -523,6 +523,11 @@ h1{
     display:none
 }
 /* Main Navigtion */
+
+@media screen and (max-width: 980px) {
+    nav ul li.submenu {position: relative;}
+}
+
  .navicon{
     float:right;
     width:5%
