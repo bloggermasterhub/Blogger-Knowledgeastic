@@ -4561,7 +4561,7 @@ h1{
 }
  .tl-copyright-wrap{
     background-color:#333333;
-    min-height:35px;
+    height:35px;
     line-height:35px;
     color:#ffffff;
     position:relative
@@ -6320,17 +6320,9 @@ div#socialicons-top{
      .post-share ul li{
         margin-bottom:5px
     }
-     /*li.nav-simple,.tl-footer-nav.pull-right{
+     li.nav-simple,.tl-footer-nav.pull-right{
         display:none
-    }*/
-     li.nav-simple {
-        display:none
-    }     
-    .tl-footer-nav.pull-right {
-        text-align: center;
-        float: none;
-        display: block;
-    } 
+    }  
      .colc.pull-left,.colc2.pull-right,.col3,.col-br{
         width:100%
     }
