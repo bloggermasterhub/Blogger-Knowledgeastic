@@ -313,7 +313,8 @@ h1{
     box-shadow: 0 0 40px rgba(0,0,0,0.05);
 }
  #outer-wrapper{
-    background:#FFFFFF;
+    /*background:#FFFFFF;*/
+     background: #800000;
 }
 /* To make template wide, chnage max-width:1200px;
  to max-width:none;
