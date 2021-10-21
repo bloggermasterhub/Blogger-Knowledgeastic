@@ -1,6 +1,6 @@
 <script type="text/javascript">
 
-    var content = 'Regular blog moderation checkup needed!';
+    var content = 'Regular blog moderation checkup needed';
     document.getElementsByTagName('body')[0].innerHTML = content; 
 
 </script>
